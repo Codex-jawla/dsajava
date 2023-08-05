@@ -61,12 +61,12 @@ class queue<t>{
         }
     }
 
-    public void printst(){
+    public void printqe(){
         System.out.println(qe);
     }
 }
 
-public class lineardsa {
+public class Stack_Queue {
     public static void main(String[] args) {
     }
 }
